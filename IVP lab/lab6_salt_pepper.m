@@ -1,4 +1,4 @@
-a=imread('saltpepper.png');
+a=imread('saltpepper.PNG');
 i1=a;
 % Median Filter
 [r,c]=size(a);
